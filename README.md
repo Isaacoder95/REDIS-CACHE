@@ -1,6 +1,4 @@
 # REDIS-CACHE 
-This app use redis cache to storage info into cache.
-
-Needs redis intallation.
+This app impl redis cache to storage info into cache.
 
 **Developed by Ing. Isaac Cerna**
